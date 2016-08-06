@@ -1,0 +1,34 @@
+_repo: Manners-Customs-and-Dress-During-the-Middle-Ages-and-During-the-Renaissance-Period_10940
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jacob, P. L.
+    aliases:
+    - Dufour, Pierre
+    - Jacob, Paul L.
+    - Lacroix, Paul
+    birthdate: 1806
+    deathdate: 1884
+    gutenberg_agent_id: '4290'
+    url: http://www.gutenberg.org/2009/agents/4290
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Lacroix
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10940'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Middle Ages'
+- !lcsh 'Clothing and dress'
+- !lcsh 'Renaissance'
+- !lcc 'GT'
+- !lcsh 'Manners and customs'
+- GITenberg
+title: Manners, Customs, and Dress During the Middle Ages and During the Renaissance
+  Period
+url: http://www.gutenberg.org/ebooks/10940
